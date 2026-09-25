@@ -8,6 +8,7 @@ Welcome to my GitHub! I build interactive web applications, browser-based physic
 
 | Project | Category | Live Demo | Source Code |
 | :--- | :--- | :--- | :--- |
+| **Galactic Horizon** | 🌌 Galaxy & Black Hole Particle Physics | [🚀 Explore Galaxy](https://rohitmaity10.github.io/galaxy-blackhole/) | [📂 Repo](https://github.com/RohitMaity10/galaxy-blackhole) |
 | **Orbit Sandbox** | 🛰️ 2D N-Body Gravity Simulator | [🚀 Launch Orbits](https://rohitmaity10.github.io/orbit-sandbox/) | [📂 Repo](https://github.com/RohitMaity10/orbit-sandbox) |
 | **Synthia Audio Lab** | 🎵 Web Audio Synth & Visualizer | [🎹 Play Synth](https://rohitmaity10.github.io/synth-studio/) | [📂 Repo](https://github.com/RohitMaity10/synth-studio) |
 | **Markdown Studio** | 📝 Text / Dev Utility | [📝 Open Editor](https://rohitmaity10.github.io/markdown-studio/) | [📂 Repo](https://github.com/RohitMaity10/markdown-studio) |
