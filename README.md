@@ -4,11 +4,11 @@ Welcome to my GitHub! I build interactive web applications, browser-based physic
 
 ---
 
-### 🚀 Featured Web Apps & Simulators
+### 🚀 Featured Web Applications & Simulators
 
 | Project | Category | Live Demo | Source Code |
 | :--- | :--- | :--- | :--- |
-| **Neon Fluid Dynamics** | 🌊 Navier-Stokes Fluid & Smoke Simulation | [🚀 Play Fluid](https://rohitmaity10.github.io/fluid-sim/) | [📂 Repo](https://github.com/RohitMaity10/fluid-sim) |
+| **Neon Fluid Dynamics** | 🌊 Navier-Stokes Fluid & Smoke Simulation | [🚀 Launch Sim](https://rohitmaity10.github.io/fluid-sim/) | [📂 Repo](https://github.com/RohitMaity10/fluid-sim) |
 | **Galactic Horizon** | 🌌 Galaxy & Black Hole Particle Physics | [🚀 Explore Galaxy](https://rohitmaity10.github.io/galaxy-blackhole/) | [📂 Repo](https://github.com/RohitMaity10/galaxy-blackhole) |
 | **Orbit Sandbox** | 🛰️ 2D N-Body Gravity Simulator | [🚀 Launch Orbits](https://rohitmaity10.github.io/orbit-sandbox/) | [📂 Repo](https://github.com/RohitMaity10/orbit-sandbox) |
 | **Synthia Audio Lab** | 🎵 Web Audio Synth & Visualizer | [🎹 Play Synth](https://rohitmaity10.github.io/synth-studio/) | [📂 Repo](https://github.com/RohitMaity10/synth-studio) |
